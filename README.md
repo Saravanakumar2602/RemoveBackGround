@@ -67,7 +67,4 @@ Make sure you have Node.js (v18+) and npm installed on your machine.
    http://localhost:3000
    ```
 
----
-<p align="center">
-  Crafted with ❤️ using Next.js & Artificial Intelligence
-</p>
+
